@@ -2,7 +2,7 @@
 ## Overview of the Project
 In this project, we used Pandas to analysis on a set of schools and their performances. Since there shows an evidence of academic dishonesty, we eliminated some unsure data in this analysis which are the reading and math scores for the grade nine at Thomas High School. By doing this, the data we generate will be more reliable.
 
-## Analysis Results##
+## Analysis Results
 ### How is district summary affected?
 -No effects on the number of schools, students and total budgets.
 <br />-Average math scores, average reading scores, percentage passing math and reading and the overall percentage passing have decreased.
