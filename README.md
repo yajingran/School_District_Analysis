@@ -6,6 +6,7 @@ In this project, we used Pandas to analysis on a set of schools and their perfor
 ### How is district summary affected?
 -No effects on the number of schools, students and total budgets.
 <br />-Average math scores, average reading scores, percentage passing math and reading and the overall percentage passing have decreased.
+![district_summary](Resources/district_summary.png)
 ### How is school summary affected?
 -The data of other schools are not affected. 
 <br />-Only data of Thomas High School is affected.
@@ -19,6 +20,7 @@ In this project, we used Pandas to analysis on a set of schools and their perfor
 
 ## Summary of changes
 -When sorting the top five schools based on % overall passing, Thomas High School is replaced with Wright High School.
+![top_schools](Resources/top_schools.png)
 <br />-When running isnull() function on student_data_df, "TRUE" appears on all ninth grade at Thomas High School.
 <br />-The counts of reading_score and math_score became 38709 while total student counts is 39170.
 <br />-The % passing of math and reading at Thomas High School substantially decreased.
